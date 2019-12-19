@@ -76,7 +76,7 @@ The precomputed centers are obtained by training the hand center estimation netw
 In case depth map does not exist or not contain hand, that frame is considered as invalid.
 All test images are considered as valid.
 
-We used [awesome-hand-pose-estimation ](https://github.com/xinghaochen/awesome-hand-pose-estimation) to evaluate the accuracy of the V2V-PoseNet on the ICVL, NYU and MSRA dataset.
+We used [awesome-hand-pose-estimation ](https://github.com/xinghaochen/awesome-hand-pose-estimation) to evaluate the accuracy of the FastV2C-HandNet on the MSRA dataset.
 
 Belows are qualitative results.
 ![result_1](/figs/Figure_4.png)
