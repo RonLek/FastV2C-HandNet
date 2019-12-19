@@ -70,7 +70,7 @@ We trained and tested our model on the MSRA Hand Pose Dataset.
 * MSRA Hand Pose Dataset [[link](https://jimmysuen.github.io/)] [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)]
 
 # Results
-Here we provide the precomputed centers, estimated 3D coordinates and pre-trained models of MSRA dataset. You can download precomputed centers and 3D hand pose results in [here](https://drive.google.com/drive/folders/1moW1nkL7Ey6C_6XAEQbWZEIoZN1uxlfu?usp=sharing) and pre-trained models in [here](/results/checkpoints/model3)
+Here we provide the precomputed centers, estimated 3D coordinates and pre-trained models of MSRA dataset. You can download precomputed centers and 3D hand pose results in [here](/results/centers) and pre-trained models in [here](/results/checkpoints/model3)
 
 The precomputed centers are obtained by training the hand center estimation network from [DeepPrior++ ](https://arxiv.org/pdf/1708.08325.pdf). Each line represents 3D world coordinate of each frame.
 In case depth map does not exist or not contain hand, that frame is considered as invalid.
