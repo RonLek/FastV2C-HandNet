@@ -32,13 +32,13 @@ In this repository, we provide
 
 ## Model Architecture
 
-![FastV2C-HandNet](/fig/Figure 3.png)
+![FastV2C-HandNet](/figs/Figure_3.png)
 
 ## Comparison with the previous state-of-the-art methods
 
-![Paper_result_hand_table](/fig/Table 1.png)
+![Paper_result_hand_table](/figs/Table_1.png)
 
-![Paper_result_v2v-posenet_table](/fig/Table 2.png)
+![Paper_result_v2v-posenet_table](/figs/Table_2.png)
 
 # About our code
 ## Dependencies
@@ -79,5 +79,5 @@ All test images are considered as valid.
 We used [awesome-hand-pose-estimation ](https://github.com/xinghaochen/awesome-hand-pose-estimation) to evaluate the accuracy of the V2V-PoseNet on the ICVL, NYU and MSRA dataset.
 
 Belows are qualitative results.
-![result_1](/fig/Figure 4.png)
-![result_2](/fig/Figure 5.png)
+![result_1](/figs/Figure_4.png)
+![result_2](/figs/Figure_5.png)
