@@ -12,7 +12,10 @@ If you find our work useful in your research or publication, please cite our wor
 [1] Rohan Lekhwani, Bhupendra Singh. **"FastV2C-HandNet : Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks"**[[Springer](https://link.springer.com/chapter/10.1007/978-981-15-5113-0_31)]
 
   ```
-Lekhwani, Rohan, and Bhupendra Singh. "FastV2C-HandNet: Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks." International Conference on Innovative Computing and Communications. Springer, Singapore, 2019.
+Lekhwani, Rohan, and Bhupendra Singh. 
+"FastV2C-HandNet: Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks." 
+International Conference on Innovative Computing and Communications. 
+Springer, Singapore, 2019.
   }
 ```
 
