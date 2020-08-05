@@ -2,24 +2,17 @@
 
 # Introduction
 
-This is the project repository for the paper, **FastV2C-HandNet : Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks ([arXiv](https://arxiv.org/abs/1907.06327))**.
+This is the project repository for the paper, **FastV2C-HandNet : Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks ([Springer](https://link.springer.com/chapter/10.1007/978-981-15-5113-0_31))**.
 
 
 Please refer to our paper for details.
 
 If you find our work useful in your research or publication, please cite our work:
 
-[1] Rohan Lekhwani, Bhupendra Singh. **"FastV2C-HandNet : Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks"**[[arXiv](https://arxiv.org/abs/1907.06327)]
+[1] Rohan Lekhwani, Bhupendra Singh. **"FastV2C-HandNet : Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks"**[[Springer](https://link.springer.com/chapter/10.1007/978-981-15-5113-0_31)]
 
   ```
-@article{DBLP:journals/corr/abs-1907-06327,
-  author    = {Rohan Lekhwani and Bhupendra Singh},
-  title     = {FastV2C-HandNet: Fast Voxel to Coordinate Hand Pose Estimation with
-               3D Convolutional Neural Networks},
-  journal   = {CoRR},
-  volume    = {abs/1907.06327},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1907.06327}
+Lekhwani, Rohan, and Bhupendra Singh. "FastV2C-HandNet: Fast Voxel to Coordinate Hand Pose Estimation with 3D Convolutional Neural Networks." International Conference on Innovative Computing and Communications. Springer, Singapore, 2019.
   }
 ```
 
