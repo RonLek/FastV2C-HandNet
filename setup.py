@@ -1,7 +1,7 @@
 from setuptools import find_packages
 from setuptools import setup
 
-REQUIRED_PACKAGES = ['keras==2.2.4']
+REQUIRED_PACKAGES = ['keras==2.13.1']
 
 setup(
 	name='trainer',
